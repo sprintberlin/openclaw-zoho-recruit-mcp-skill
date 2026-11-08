@@ -1,0 +1,7 @@
+{
+  "name": "zoho-recruit-mcp",
+  "version": "1.0.0",
+  "description": "Connect agents to Zoho Recruit through MCP with a verified 65-operation API catalog, live tool discovery, least-privilege scope profiles, and safe applicant-tracking workflows.",
+  "author": "SprintCX",
+  "license": "MIT"
+}
